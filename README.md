@@ -8,9 +8,9 @@ This project was built using the phonenumbers library to validate, format, and e
 
 1) Checks if the numbers are valid and possible
 
-2) Detects the country, carrier, and type of number(mobile, landline, tollfree, etc...)\
+2) Detects the country, carrier, and type of number(mobile, landline, tollfree, etc...)
 
-3)Detects the timezone, location and the region
+3) Detects the timezone, location and the region
 
 # Useful for:
 
